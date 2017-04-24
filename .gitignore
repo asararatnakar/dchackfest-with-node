@@ -1,0 +1,5 @@
+samples/e2e/*.tx
+samples/e2e/*.block
+samples/e2e/crypto-config
+samples/e2e/node_modules/*
+
